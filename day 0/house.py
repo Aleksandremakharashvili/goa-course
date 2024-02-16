@@ -1,6 +1,4 @@
 
-Nia
-Nia Khoperia
 from turtle import*
 
 #we want to paint a house
